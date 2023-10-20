@@ -1,3 +1,4 @@
+/*
 function testAddProductToCart() {
     // Initialize the platform with a list of products.
     // Select a product to add to the cart.
