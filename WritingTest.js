@@ -35,6 +35,7 @@ function testCompleteShoppingExperience() {
     // Observe the state of the order.
     // Assert that the order is confirmed and payment is processed.
 }
+*/
 
 // Project Lifecycle Steps:
 // - Start with Research
